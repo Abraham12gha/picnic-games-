@@ -1,0 +1,47 @@
+[
+    {
+        "image": "assits/images/indexpackage-1.jpg",
+        "title": "Sunshine Sports Package",
+        "discription": "A collection of classic outdoor sports games perfect for a sunny day in the park",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "4 hours.",
+        "Price": " for the 2 hour.",
+        "p": "8000",
+        "detailprice": "This packages have the 4 games and price of the ",
+        "newUrl": "./assits/pages/sunshine.html"
+    }, 
+    {
+        "image": "assits/images/indexpackage-2.jpg",
+        "title": "Adventure Activity Pack",
+        "discription": "This package is ideal for groups looking to have a fun and adventurous time",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 3 hour.",
+        "p": "12000",
+        "detailprice": "This packages have the 4 games and price of the game is ",
+        "newUrl": "./assits/pages/adventure.html"
+    }, 
+    {
+        "image": "assits/images/indexpackage-3.jpg",
+        "title": "Family Fun Pack",
+        "discription": "A variety of games that the entire family can enjoy together",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "10000",
+        "detailprice": "This packages have the 4 games and price of the game is ",
+        "newUrl": "./assits/pages/fam.html"
+    },
+    {
+        "image": "assits/images/indexpackage-4.jpg",
+        "title": "Picnic Play Set",
+        "discription": "Perfect for a relaxed picnic with light-hearted games.",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "12000",
+        "detailprice": "This packages have the 4 games and price of the game is ",
+        "newUrl": "./assits/pages/play.html"
+    }
+
+]

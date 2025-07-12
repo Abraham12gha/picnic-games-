@@ -1,0 +1,102 @@
+[
+    {
+        "image": "../images/card-water-1.jpg",
+        "title": "Sponge Tag",
+        "discription": "Splash and chase with a fun, water-filled twist on classic tag!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1300",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/sponge.html"
+    },  
+    {
+        "image": "../images/card-water-2.jpg",
+        "title": "Water Gun Fights",
+        "discription": "Splash, dodge, and soak in this exhilarating outdoor game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/wagu.html"
+    }, 
+    {
+        "image": "../images/card-water-3.jpg",
+        "title": "Water Balloon Toss",
+        "discription": "Catch, toss, and enjoy the splash in this refreshing, summer favorite game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "2000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/ballto.html"
+    },
+    {
+        "image": "../images/card-water-4.jpg",
+        "title": "Bathtub Boat Races",
+        "discription": "the bathtuub boat is provide our company and our staff guide the racer",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "15000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/bathtub.html"
+    },
+    {
+        "image": "../images/card-water-5.jpg",
+        "title": "Sink or Float",
+        "discription": "all this product provide by company and staff guide you",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "11800",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/sink.html"
+    }, 
+    {
+        "image": "../images/card-water-6.jpg",
+        "title": "Ice Cube Melt",
+        "discription":  "Race against time to melt the ice cube first in this cool and fun game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "13999",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/ice.html"
+    },
+    {
+        "image": "../images/card-water-7.jpg",
+        "title": "Duck Duck Splash",
+        "discription": "Play, splash, and have a blast in this water-filled twist on the classic game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "7000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/duck.html"
+    }, 
+    {
+        "image": "../images/card-water-8.jpg",
+        "title": "Water Limbo",
+        "discription": "Bend, splash, and twist under the refreshing water as you lower the bar in this fun and wet game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1250",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/limbo.html"
+    },
+    {
+        "image": "../images/card-water-9.jpg",
+        "title": "Slip 'n Slide",
+        "discription": " Slide, splash, and have a blast with this fun, water-soaked backyard activity!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "12000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/slip.html"
+    }
+
+]

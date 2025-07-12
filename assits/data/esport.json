@@ -1,0 +1,93 @@
+[
+    {
+        "image": "../images/card-e8.jpeg",
+        "title": "RDR 2",
+        "discription": "High Graphics and Beautiful Story in your dream Setup",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 60 min.",
+        "p": "1000",
+        "detailprice": "this game is one and best for the kids in picnic with the price of "
+    }, 
+    {
+        "image": "../images/card-e2.jpg",
+        "title": "Minecraft",
+        "discription": "Pixel Graphics and intense story in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5000",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-e9.jpeg",
+        "title": "Takken 8",
+        "discription": "High Graphics and Extream Fight in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "3500",
+        "detailprice": "this game is the mind both children and old one can play with the price of "
+    },
+    {
+        "image": "../images/card-e4.jpg",
+        "title": "Brawl Stars",
+        "discription": "Baby Graphics and laughter fun in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    },
+    {
+        "image": "../images/card-e5.jpg",
+        "title": "GTA 5",
+        "discription": "High Graphics and with friends in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "8500",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-e6.jpg",
+        "title": "Fortnite",
+        "discription": "High Graphics and multiplayer fun in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "350",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    },
+    {
+        "image": "../images/card-e7.jpg",
+        "title": "Counter-Strike",
+        "discription": "lovely Graphics and intense Round in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1499",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-e1.jpg",
+        "title": "PUBG",
+        "discription": "HD Graphics and you fav game in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice":"exiting stories for kids  with the price of "
+    },
+    {
+        "image": "../images/card-e3.jpg",
+        "title": "Forza Horizon 5",
+        "discription": "High Graphics and real time driving experience in your dream Setup",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5600",
+        "detailprice": "this game is lovliest game of kids with the price of "
+    }
+
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Crossword Puzzel",
+        "discription": "Discription",
+        "discri": "A word game where players fill in a grid of squares with words based on clues provided. Each word intersects with others in the grid, and the clues can range from straightforward to very challenging. This game is perfect for exercising the mind, improving vocabulary, and providing entertainment for individuals or groups. Ideal for relaxing indoors, during picnics, or while traveling.",
+        "pack": "Package includes...",
+        "minTime": "Minimum of 3 hours of play.",
+        "maxTime":"This exciting kids party will give your child a birthday of memories and fun picnic games for just",
+        "price": "8000",
+        "midTime": " per game per hour",
+        "newURL": "../images/card-puzzel-1.jpg"
+    }
+]

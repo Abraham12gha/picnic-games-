@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Picnic Playtime | Bocce Ball</title>
+    <link rel="stylesheet" href="../css/booce.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Kranky&family=Lilita+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="navbar">
+        <div class="upper-nav">
+            <div class="web-logo-name">
+                <h3><img src="../images/picnic logo.png" class="logo"></h3>
+            </div>
+            <div class="web-media">
+                <div class="flag" id="flag" onclick="currencyOpen()">
+                    <img src="../images/Pakistan-flag.png" alt="pakistan flag for currency" loading="lazy">
+                    <p>(PKR)</p>
+                    <i class="fa-solid fa-caret-down"></i>
+                    <div class="dropdown-currency" id="dropdown-currency">
+                        <ul>
+                            <li class="flag-drop" onclick="changeCurrency('PKR')"><a href="#"><img src="../images/Pakistan-flag.png" alt="pakistan flag for currency" loading="lazy"><p>(PKR)</p></a></li>
+                            <li class="flag-drop" onclick="changeCurrency('USD')"><a href="#"><img src="../images/USA-flag.png" alt="USA flag for currency" loading="lazy"><p>(USD)</p></a></li>
+                            <li class="flag-drop" onclick="changeCurrency('JPY')"><a href="#"><img src="../images/Japan-flag.png" alt="JAPAN flag for currency" loading="lazy"><p>(JPY)</p></a></li>
+                            <li class="flag-drop" onclick="changeCurrency('ILS')"><a href="#"><img src="../images/Israel-flag.png" alt="ISRAEL flag for currency" loading="lazy"><p>(ILS)</p></a></li>
+                            <li class="flag-drop" onclick="changeCurrency('INR')"><a href="#"><img src="../images/india-flag.png" alt="INDIA flag for currency" loading="lazy"><p>(INR)</p></a></li>
+                            <li class="flag-drop" onclick="changeCurrency('GBP')"><a href="#"><img src="../images/British-flag.png" alt="BRITISH flag for currency" loading="lazy"><p>(GBP)</p></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="icon">
+
+                    <div class="calender">
+                        <a href="./esport.html">
+                            <i class="fa-solid fa-gamepad"></i>
+                            <span>E-Sport</span>
+                        </a>
+                    </div>
+
+
+                    <div class="add-to-cart" id="add-to-cart">
+                        <a href="./outdoor.html">
+                            <i class="fa-solid fa-campground"></i>
+                            <span>Outdoor</span>
+                        </a>
+                    </div>
+
+
+                    <div class="account" id="account">
+                        <a href="#" class="acc-sec">
+                            <i class="fa-regular fa-user"></i>
+                            <span>Account</span>
+                        </a>
+                        <div class="account-drop" id="account-drop">
+                            <div class="per-acc">
+                                <div class="img-per"></div>
+                                <div class="name-per">Not Sign in</div>
+                            </div>
+                            <hr class="acc-hr">
+                            <div class="acc-nav">
+                                <p><i class="fa-regular fa-user"></i><a href="#">Account</a></p>
+                                <p><i class="fa-solid fa-envelope"></i><a href="#">Inbox</a></p>
+                                <p><i class="fa-solid fa-headset"></i><a href="#">Help and Support</a></p>
+                                <hr>
+                                <p><i class="fa-solid fa-arrow-right-from-bracket"></i><a href="#">Log out</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </div>
+        <div class="lower-nav">
+            <ul>
+                <li>
+                    <a href="../../index.html" id="lower-nav-1">HOME</a>
+                </li>
+                <li>
+                    <a href="#" id="lower-nav-2">GAMES <span><i class="fa-solid fa-caret-down"></i></span></a>
+                    <div id="dropdown-lower-nav-2">
+                        <ul id="lower-nav-link">
+                            <li><a href="./Kidsgame.html">Kids' Games</a></li>
+                            <li><a href="./Familygame.html">Family Games</a></li>
+                            <li><a href="./TeamSport.html">Team Sports</a></li>
+                            <li><a href="./water game.html">Water Games</a></li>
+                            <li><a href="./puzzle.html">Puzzle and Brain Games</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="#" id="lower-nav-3">PACKAGES <span><i class="fa-solid fa-caret-down"></i></span></a>
+                    <div id="dropdown-lower-nav-3">
+                        <ul id="lower-nav-link">
+                            <li><a href="./sunshine.html">Sunshine Sports Package</a></li>
+                            <li><a href="./adventure.html">Adventure Activity Pack</a></li>
+                            <li><a href="./play.html">Picnic Play Set</a></li>
+                            <li><a href="./fam.html">Family Fun Pack</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="./about.html" id="lower-nav-4">ABOUT US</a></li>
+                <li><a href="./Blogs.html" id="lower-nav-5">BLOG</a></li>
+                <li><a href="./contact.html" id="lower-nav-">CONTACT US</a></li>
+            </ul>
+            <div class="search">
+                <a href="#"><i class="fa-solid fa-magnifying-glass" id="search-icon"></i></a>
+                <form>
+                    <input type="text" placeholder="Search" id="search-input">
+                </form>
+            </div>
+        </div>
+    </header>
+
+    <!-- Note -->
+
+    <div class="note">
+        <h2>Note:</h2>
+        <ul>
+            <li>All gaming set up are set in the GITP container</li>
+            <li>We set up each game carefully.</li>
+            <li>We guide you through the rules.</li>
+            <li>We clean up the entire area.</li>
+            <li>We use new toys for every game.</li>
+        </ul>
+    </div>
+
+    <!-- package open detail -->
+
+    <section class="detail-pack"></section>
+
+    <!-- footer -->
+
+    <section class="footer">
+        <div class="footer1">
+            <div class="logo"><img src="../images/picnic logo.png" class="logoft"></div>
+            <div class="media-icon-ft">
+                <a href="https://www.facebook.com"><i class="fa-brands fa-facebook"></i></a>|
+                <a href="https://www.instagram.com"><i class="fa-brands fa-instagram"></i></a>|
+                <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>|
+                <a href="https://www.pinterest.com"><i class="fa-brands fa-pinterest"></i></a>|
+                <a href="https://wa.me/+1 (555) 123-4567"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+        </div>
+        <div class="footer2">
+            <div class="web-name">GAME IN THE PARK</div>
+            <div class="web-slogan"> Level up Your Fun</div>
+            <div class="perfect-line">
+                Let us handle the setup and cleanup while you relish in pure joy and laughter. Stress-free picnics start here - plan your unforgettable day in the park now!
+            </div>
+            <div class="navigation-ft">
+                <div class="n-ft-1">
+                <div class="heading-ft">Games</div>
+                <ul>
+                    <li><a href="./Kidsgame.html">Kids Games</a></li>                        
+                    <li><a href="./Familygame.html">Family Games</a></li> 
+                    <li><a href="./TeamSport.html">Team Sport Games</a></li> 
+                </ul>
+                </div>
+
+
+                <div class="n-ft-2">
+                    <div class="heading-ft">Contact us</div>
+                    <ul>
+                        <li><a href="https://www.instagram.com">Follow us on Instagram</a></li>                        
+                        <li><a href="https://www.pinterest.com">Follow us on Pinterest</a></li> 
+                        <li><a href="https://wa.me/+1 (555) 123-4567"><span><i class="fa-solid fa-phone"></i></span>+1 (555) 123-4567</a></li>
+                        <li><a href="#"><span><i class="fa-regular fa-envelope"></i></span>gameinthepark@gmail.com</a></li>  
+                    </ul>
+                </div>
+
+
+
+                <div class="n-ft-2">
+                    <div class="heading-ft">Company</div>
+                    <ul>
+                        <li><a href="#">Carrer</a></li>                        
+                        <li><a href="./about.html">About Us </a></li> 
+                        <li><a href="https://wa.me/+1 (555) 123-4567">Our's workers</a></li>
+                        <li><a href="https://wa.me/+1 (555) 123-4567">Bargain Call</a></li>  
+                    </ul>
+                </div>
+            </div>
+            <p class="copyright">
+                &copy; 2024 Game in the Park. All rights reserved. | <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a> | Making memories and laughter in every park!
+            </p>
+        </div>
+        
+    </section>
+    </body>
+    <script src="../js/booce.js"></script>
+    </html>

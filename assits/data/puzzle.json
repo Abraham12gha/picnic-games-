@@ -1,0 +1,102 @@
+[
+    {
+        "image": "../images/card-puzzel-1.jpg",
+        "title": "Crossword Puzzles",
+        "discription": "Challenge your mind and have fun with this classic word game for all ages!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "4 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/cross.html"
+    }, 
+    {
+        "image": "../images/card-puzzel-2.jpg",
+        "title": "Sudoku",
+        "discription": "Logic, number placement, and fun in this popular brain-teasing puzzle game!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/sudoko.html"
+    }, 
+    {
+        "image": "../images/card-puzzel-3.jpg",
+        "title": "Tangrams",
+        "discription": "Tangrams is a puzzle game where players form specific shapes using seven geometric pieces called tans.",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/tan.html"
+    },
+    {
+        "image": "../images/card-puzzel-4.jpg",
+        "title": "Chess",
+        "discription": "Strategy, skill, and challenge in this classic game of the mind!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/chess.html"
+    },
+    {
+        "image": "../images/card-puzzel-5.jpg",
+        "title": "Riddles and Brain Teasers",
+        "discription": "Fun, puzzling challenges for the whole family to enjoy together!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/brain.html"
+    }, 
+    {
+        "image": "../images/card-puzzel-6.jpg",
+        "title": "Checkers",
+        "discription": " Enjoy a classic game of strategy with friends and family, perfect for picnics. Rent it now!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/cheaker.html"
+    },
+    {
+        "image": "../images/card-puzzel-7.jpg",
+        "title": "Rubik's Cube",
+        "discription": "Challenge yourself with this iconic puzzle - a great addition to any picnic! Rent it now.",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/rubik.html"
+    }, 
+    {
+        "image": "../images/card-puzzel-8.jpg",
+        "title": "20 Questions",
+        "discription": "Test your guessing skills with this fun, interactive game - ideal for picnics! Rent it now.",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/20.html"
+    },
+    {
+        "image": "../images/card-puzzel-9.jpg",
+        "title": "Mazes",
+        "discription": "Navigate your way through fun and challenging mazes - a perfect activity for picnics! Rent it",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/maze.html"
+    }
+
+]

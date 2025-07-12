@@ -1,0 +1,102 @@
+[
+    {
+        "image": "../images/card-team-1.jpg",
+        "title": "Soccer",
+        "discription": "Kick, dribble, and score in this exciting, action-packed game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "24 hours.",
+        "Price": " for the 90 min.",
+        "p": "7500",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/soc.html"
+    }, 
+    {
+        "image": "../images/card-team-2.jpg",
+        "title": "cricket",
+        "discription": "Hit, bowl, and score in this classic bat-and-ball game for all skill levels!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "24 hours.",
+        "Price": " for the 1 hour.",
+        "p": "14000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/cri.html"
+    }, 
+    {
+        "image": "../images/card-team-3.jpg",
+        "title": "Basketball",
+        "discription": " Shoot, dribble, and score in this fast-paced, high-energy game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "24 hours.",
+        "Price": " for the 1 hour.",
+        "p": "14000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/bas.html"
+    },
+    {
+        "image": "../images/card-team-4.jpg",
+        "title": "table tennis",
+        "discription": " Serve, spin, and volley in this fast-paced, indoor ping-pong game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "16000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/tanis.html"
+    },
+    {
+        "image": "../images/card-team-5.jpg",
+        "title": "Handball",
+        "discription": "Throw, dodge, and score in this fast-paced, team-oriented game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/hand.html"
+    }, 
+    {
+        "image": "../images/card-team-6.jpg",
+        "title": "foosball",
+        "discription": "Kick, spin, and score with this exciting tabletop soccer game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "24 hours.",
+        "Price": " for the 1 hour.",
+        "p": "15000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/foos.html"
+    },
+    {
+        "image": "../images/card-team-7.jpg",
+        "title": "carrom",
+        "discription": " Flick, pot, and strategize in this classic tabletop game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "13000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/carrom.html"
+    }, 
+    {
+        "image": "../images/card-team-8.jpg",
+        "title": "hockey",
+        "discription": "Stick, shoot, and score in this fast and thrilling ice or field game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "24 hours.",
+        "Price": " for the 1 hour.",
+        "p": "13000",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/hoc.html"
+    },
+    {
+        "image": "../images/card-team-9.jpg",
+        "title": "shoot balloons",
+        "discription": "our staff guid for this game for the safty and guidance",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "28",
+        "detailprice": "this game is one and best for the kids and elder in picnic with the price of ",
+        "newURL": "../pages/shot.html"
+    }
+
+]

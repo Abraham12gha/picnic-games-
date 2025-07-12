@@ -1,0 +1,93 @@
+[
+    {
+        "image": "../images/card-out-1.jpg",
+        "title": "Cricket",
+        "discription": "2 teams, 2 captian, 11 player and one pitch with tough match",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 60 min.",
+        "p": "1000",
+        "detailprice": "this game is one and best for the kids in picnic with the price of "
+    }, 
+    {
+        "image": "../images/card-out-2.jpg",
+        "title": "FootBall",
+        "discription": "2 teams and two goal post, make goal and win match",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5000",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-out-3.jpg",
+        "title": "Hockey",
+        "discription": "2 teams and two goal post, make goal and win match",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "3500",
+        "detailprice": "this game is the mind both children and old one can play with the price of "
+    },
+    {
+        "image": "../images/card-out-4.jpg",
+        "title": "Basket ball",
+        "discription": "2 teams and two goal post, make goal and win match",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    },
+    {
+        "image": "../images/card-out-5.jpg",
+        "title": "Tug of war",
+        "discription": "2 teams and pull rope and win the match",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "8500",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-out-6.jpg",
+        "title": "Tennis",
+        "discription": "2 teams, 2 player make score and wn the match",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "350",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    },
+    {
+        "image": "../images/card-out-7.jpg",
+        "title": "Vollyball",
+        "discription": "Volly the ball and make the points to win!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1499",
+        "detailprice": "this game is enjoy for all ages with the price of "
+    }, 
+    {
+        "image": "../images/card-out-8.jpg",
+        "title": "Foosball",
+        "discription": "same like football but it is foosball!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice":"exiting stories for kids  with the price of "
+    },
+    {
+        "image": "../images/card-out-9.jpg",
+        "title": "Table tanis",
+        "discription": "The greatest match of ping pong may you happy you",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "12 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5600",
+        "detailprice": "this game is lovliest game of kids with the price of "
+    }
+
+]

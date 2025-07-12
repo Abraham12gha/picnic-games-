@@ -1,0 +1,102 @@
+[
+    {
+        "image": "../images/card-family-1.jpg",
+        "title": "Sponge Tag",
+        "discription": " A fun, safe way for all's to hit, run, and play like the pros!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "9999",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/spo.html"
+    },  
+    {
+        "image": "../images/card-family-2.jpg",
+        "title": "Volly ball (Beach / Garden)",
+        "discription": "Serve, spike, and rally with this energetic game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "11000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/voball.html"
+    }, 
+    {
+        "image": "../images/card-family-3.jpg",
+        "title": "Corn hole",
+        "discription": "Toss, aim, and score in this classic bean bag toss game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5500",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/corn.html"
+    },
+    {
+        "image": "../images/card-family-4.jpg",
+        "title": "Bocce Ball",
+        "discription": "Roll, aim, and score in this relaxing and strategic lawn game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1400",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/booce.html"
+    },
+    {
+        "image": "../images/card-family-5.jpg",
+        "title": "Ladder Toss",
+        "discription": " Toss the bolas and score in this fun and competitive backyard game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "8700",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/ladder.html"
+    }, 
+    {
+        "image": "../images/card-family-6.jpg",
+        "title": "Badminton",
+        "discription": "Smash, volley, and score in this fast-paced backyard game for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "13999",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/bad.html"
+    },
+    {
+        "image": "../images/card-family-7.jpg",
+        "title": "Giant Jenga",
+        "discription": "Stack, pull, and watch the excitement build with this oversized block game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "1 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5600",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/Gia.html"
+    }, 
+    {
+        "image": "../images/card-family-8.jpg",
+        "title": "Tug of War",
+        "discription": " Battle it out with this classic, fun game for all ages – perfect for mixed groups!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "7800",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/tug.html"
+    },
+    {
+        "image": "../images/card-family-9.jpg",
+        "title": "4 in row",
+        "discription": "Connect four discs in a row to win in this challenging and fun strategy game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "1.5 hours.",
+        "Price": " for the 1 hour.",
+        "p": "8300",
+        "detailprice": "Tthis game is enjoy for all ages with the price of ",
+        "newURL": "../pages/4.html"
+    }
+
+]

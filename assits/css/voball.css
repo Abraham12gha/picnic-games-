@@ -1,0 +1,597 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* navbar */
+
+
+
+.navbar .upper-nav {
+    background-color: #4CAF50;
+    height: 65px;
+    line-height: 65px;
+    padding: 0px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.upper-nav .web-media .flag {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70px;
+    cursor: pointer;
+}
+
+.upper-nav .web-media .flag p {
+    color: white;
+}
+
+.upper-nav .web-media .flag img {
+    height: 20px;
+    width: fit-content;
+    position: relative;
+    top: 22.5px;
+}
+
+.upper-nav .web-media .flag i {
+    position: relative;
+    top: 25px;
+    left: 5px;
+    color: white;
+}
+
+.upper-nav .web-media .flag .dropdown-currency {
+    background-color: whitesmoke;
+    max-height: 0px;
+    width: 100px;
+    z-index: 999;
+    position: absolute;
+    top: 65px;
+    padding-left: 30px;
+    overflow: hidden;
+    box-shadow: 1px 5px 10px black;
+    transition: all .5s ease-in;
+
+}
+
+.upper-nav .web-media .flag .dropdown-currency.open-currency {
+    max-height: 400px;
+}
+
+.upper-nav .web-media .flag .dropdown-currency.open-currency body {
+    background-color: rgba(0, 0, 0, 0.395);
+}
+
+.upper-nav .web-media .flag .dropdown-currency ul li {
+    list-style: none;
+}
+
+.upper-nav .web-media .flag .dropdown-currency ul li a {
+    text-decoration: none;
+    display: flex;
+}
+
+.upper-nav .web-media .flag .dropdown-currency ul li a p {
+    color: #000;
+    margin-left: 10px;
+}
+
+.web-media {
+    display: flex;
+    justify-content: space-evenly;
+    width: 350px;
+}
+
+.web-media .icon {
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
+
+.web-media .icon .Food-var a {
+    text-decoration: none;
+    color: white;
+}
+
+.web-media .icon .Food-var a i {
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.web-media .icon .Food-var a span {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.web-media .icon .calender a {
+    text-decoration: none;
+    color: white;
+}
+
+.web-media .icon .calender a i {
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.web-media .icon .calender a span {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+
+hr {
+    margin: 30px 40px;
+}
+
+.web-media .icon .add-to-cart a {
+    text-decoration: none;
+    color: white;
+}
+
+.web-media .icon .add-to-cart a i {
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.web-media .icon .add-to-cart a span {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.add-dropdown {
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+    top: 65px;
+    right: 30px;
+    border: 2px solid #ff8c00;
+    border-radius: 1rem;
+    padding: 5px;
+    line-height: 100px;
+    text-align: center;
+    display: none;
+}
+
+.web-media .icon .account .acc-sec {
+    text-decoration: none;
+    color: white;
+}
+
+.web-media .icon .account .acc-sec i {
+    text-align: center;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.web-media .icon .account .acc-sec span {
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.account-drop {
+    height: 380px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 65px;
+    right: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    border-radius: 1rem;
+    border: 2px solid #ff8c00;
+    padding: 5px;
+    display: none;
+}
+
+.account-drop .per-acc {
+    display: flex;
+    height: 60px;
+    line-height: 75px;
+    cursor: pointer;
+}
+
+.account-drop .per-acc .img-per {
+    background-image: url(../images/Account\ avatar.jpg);
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    left: 15px;
+}
+
+.account-drop .per-acc .name-per {
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.acc-hr {
+    margin: 13px 20px;
+}
+
+.acc-nav {
+    height: 290px;
+}
+
+.acc-nav p {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    width: 100%;
+}
+
+.acc-nav p:hover {
+    background-color: rgba(189, 189, 189, 0.452);
+}
+
+.acc-nav p::before {
+    content: ">";
+    position: relative;
+    left: 210px;
+    cursor: pointer;
+}
+
+.acc-nav p i {
+    margin: 0px 10px;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    padding: 10px;
+    color: white;
+}
+
+.acc-nav p a {
+    color: black;
+    text-decoration: none;
+    margin: 0px 5px;
+}
+
+.acc-nav hr {
+    margin: 13px 20px;
+}
+
+.lower-nav {
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+    line-height: 40px;
+    border: 2px solid #4CAF50;
+}
+
+.lower-nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.lower-nav ul li {
+    list-style: none;
+}
+
+.lower-nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+#dropdown-lower-nav-2 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    height: 250px;
+    left: 25px;
+    width: 600px;
+    z-index: 999;
+    padding: 0px 30px;
+    border: 2px solid #ff8c00;
+    transition: all .5s linear;
+    overflow: hidden;
+}
+
+#dropdown-lower-nav-2 ul {
+    display: flex;
+    flex-direction: column;
+    height: 20px;
+}
+
+#dropdown-lower-nav-2 ul li {
+    margin: 5px 0px;
+}
+
+#dropdown-lower-nav-2 ul li:hover {
+    list-style: disc;
+}
+
+#lower-nav-link {
+    display: none;
+}
+
+#dropdown-lower-nav-3 {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    height: 250px;
+    left: 25px;
+    width: 600px;
+    visibility: hidden;
+    z-index: 999;
+    padding: 0px 30px;
+    border: 2px solid rgb(255, 140, 0);
+    transition: all .5s linear;
+    overflow: hidden;
+}
+
+#dropdown-lower-nav-3 ul {
+    display: flex;
+    flex-direction: column;
+    height: 20px;
+}
+
+#dropdown-lower-nav-3 ul li {
+    margin: 5px 0px;
+}
+
+#dropdown-lower-nav-3 ul li:hover {
+    list-style: disc;
+}
+
+#lower-nav-link {
+    display: none;
+    position: sticky;
+}
+
+.lower-nav .search a {
+    color: black;
+    padding: 0px 10px;
+    z-index: 999;
+}
+
+.lower-nav .search form input {
+    height: 30px;
+    width: 0px;
+    position: absolute;
+    right: 38px;
+    top: 73px;
+    padding: 0px 10px;
+    border: 1px solid #000;
+    border-radius: 30px;
+    transition: all .5s ease-in;
+    visibility: hidden;
+}
+
+/* note */
+
+.note{
+    padding: 20px;
+}
+.note ul li{
+    font-size: 17px;
+    color: grey;
+    list-style: inside;
+}
+
+/* package open detail */
+
+.detail-pack{
+    display: flex;
+}
+
+.detailing-section{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+.d-name{
+    font-size: 35px;
+    margin: 10px 0px 15px 0px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.game-naughty{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.game-naughty img{
+    height: 300px;
+    width: 600px;
+    margin-right: 40px;
+}
+.g-name{
+    font-size: 15px;
+    padding: 0px 10px;
+    font-weight: 400;
+}
+.game-cart{
+    background-color: #4CAF50;
+    padding: 10px;
+    width: 300px;
+    font-weight: 500;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.dicr{
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.discri{
+    font-size: 14px;
+    font-weight: 400;
+}
+.time-re{
+    margin: 10px 0px;
+}
+.time-re p{
+    margin: 10px 0px;
+}
+.time-re-he{
+    font-weight: 500;
+    font-style: oblique;
+    color: rgb(50, 50, 50);
+    font-size: 17px;
+}
+
+/* footer */
+
+.footer {
+    margin-top: 20px;
+    display: flex;
+}
+
+.footer1 {
+    background-color: #4CAF50;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+}
+
+.footer1 .media-icon-ft {
+    color: white;
+    line-height: 50px;
+    width: 250px;
+    height: 50px;
+    left: 50px;
+}
+
+.footer1 .media-icon-ft a {
+    margin: 0px 10px;
+    color: white;
+    position: relative;
+    font-size: 24px;
+}
+
+.footer1 .media-icon-ft a:hover {
+    bottom: 5px;
+}
+
+.footer2 {
+    background-color: #fff;
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+}
+
+.footer2 .web-name {
+    font-size: 30px;
+    font-weight: 500;
+    color: #4CAF50;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer2 .web-slogan {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer .perfect-line {
+    margin: 20px 0px;
+    font-size: 20px;
+    font-style: oblique;
+    color: grey;
+}
+
+.footer2 .navigation-ft {
+    text-align: center;
+    display: flex;
+    width: 700px;
+    justify-content: space-evenly;
+}
+
+.footer2 .navigation-ft .heading-ft {
+    font-weight: 500;
+}
+
+.footer2 .navigation-ft .n-ft-1 {
+    text-align: left;
+}
+
+.footer2 .navigation-ft .n-ft-1 ul li {
+    list-style: none;
+}
+
+.footer2 .navigation-ft .n-ft-1 ul li a {
+    color: #363535;
+    text-decoration: none;
+}
+
+.footer2 .navigation-ft .n-ft-1 ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer2 .navigation-ft .n-ft-2 {
+    text-align: left;
+}
+
+.footer2 .navigation-ft .n-ft-2 ul li {
+    list-style: none;
+}
+
+.footer2 .navigation-ft .n-ft-2 ul li a {
+    color: #363535;
+    text-decoration: none;
+}
+
+.footer2 .navigation-ft .n-ft-2 ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer2 .navigation-ft .n-ft-2 ul li a span {
+    margin-right: 5px;
+}
+
+.copyright {
+    font-size: 14px;
+    color: grey;
+    position: relative;
+    top: 30px;
+}
+
+.copyright a {
+    color: grey;
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+.upper-nav .logo{
+    height: 70px;
+    width: 70px;
+}
+.footer1 .logoft{
+    height: 250px;
+    width: 250px;
+    margin-left: 45px;
+}
+
+.footer1 .media-icon-ft {
+    color: white;
+    line-height: 50px;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+}
+

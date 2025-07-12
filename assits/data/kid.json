@@ -1,0 +1,102 @@
+[
+    {
+        "image": "../images/card-game-1.jpg",
+        "title": "Sack race",
+        "discription": "Bring fun and laughter to your picnic with the classic sack race!",
+        "minimumtime": "This package must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 60 min.",
+        "p": "1000",
+        "detailprice": "this game is one and best for the kids in picnic with the price of ",
+        "newURL": "../pages/sack.html"
+    }, 
+    {
+        "image": "../images/card-game-2.jpg",
+        "title": "Trampoline",
+        "discription": "Rent a trampoline at the park for a fun, energetic bouncing experience for all ages.",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5000",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+        "newURL": "../pages/Tram.html"
+    }, 
+    {
+        "image": "../images/indexpackage-3.jpg",
+        "title": "Janga",
+        "discription": "Rent a Jenga set at the park for a fun and competitive game of skill and balance.",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "3500",
+        "detailprice": "this game is the mind both children and old one can play with the price of ",
+                "newURL": "../pages/janga.html"
+    },
+    {
+        "image": "../images/card-game-4.jpg",
+        "title": "Freesbee Golf",
+        "discription": "Aim, throw, and score in this fun mix of frisbee and golf for all ages!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+                "newURL": "../pages/frees.html"
+    },
+    {
+        "image": "../images/card-game-5.jpg",
+        "title": "Base ball (kid version)",
+        "discription": " A fun, safe way for kids to hit, run, and play like the pros!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2 hours.",
+        "Price": " for the 1 hour.",
+        "p": "8500",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+                "newURL": "../pages/kidbase.html"
+    }, 
+    {
+        "image": "../images/card-game-6.jpg",
+        "title": "Kite",
+        "discription": "Soar high and enjoy the breeze with a colorful kite for endless outdoor fun!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "350",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+                "newURL": "../pages/kite.html"
+    },
+    {
+        "image": "../images/card-game-7.jpg",
+        "title": "Park Slide",
+        "discription": "Simple joy and endless fun with a classic slide for kids to enjoy outdoors!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "3 hours.",
+        "Price": " for the 1 hour.",
+        "p": "1499",
+        "detailprice": "this game is enjoy for all ages with the price of ",
+                "newURL": "../pages/pslide.html"
+    }, 
+    {
+        "image": "../images/card-game-8.jpg",
+        "title": "Story Circle (Story Teller is our Staff)",
+        "discription": "Gather, share, create memories with engaging tales in a cozy circle!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "2.5 hours.",
+        "Price": " for the 1 hour.",
+        "p": "4500",
+        "detailprice":"exiting stories for kids  with the price of ",
+                "newURL": "../pages/steller.html"
+    },
+    {
+        "image": "../images/card-game-9.jpg",
+        "title": "Dalgona Candy",
+        "discription": "A sweet challenge of fun and flavor with this classic candy game!",
+        "minimumtime": "This game must be played for at least",
+        "ExactTime": "1 hours.",
+        "Price": " for the 1 hour.",
+        "p": "5600",
+        "detailprice": "this game is lovliest game of kids with the price of ",
+                "newURL": "../pages/dcandy.html"
+    }
+
+]
